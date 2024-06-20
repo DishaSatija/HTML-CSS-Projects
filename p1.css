@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    align-items: flex-start;
+    background-color: white;
+    height: 600px;
+    width: 700x;
+    border: 6px solid black;
+    padding: 15px;
+}
+.new{
+    border-radius: 30px;
+    border: 3px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    box-shadow: 2px 2px 8px #a2d2ff;
+}
+h1{
+    color: white;
+    background-color:#cdb4db;
+}
+.text-content{
+    margin-left: 20px;
+    flex: 1;
+}
+h3,h6{
+    margin: 5px 0;
+    color: #ffafcc;
+}
+a{
+    color: #ffc8dd;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
