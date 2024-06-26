@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid black; 
+    height: 350px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;      
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    color: black;
+}
+.button{
+    background-color: #E8C5E5;
+    color: white;
+}
+.Twitter{
+    background-color:skyblue ;
+    color: white;
+}
+.Facebook{
+    background-color: rgb(98, 98, 219);
+}
+.underline{
+    color: #E8C5E5;
+}
